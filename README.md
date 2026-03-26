@@ -2,8 +2,7 @@
 
   > 记录算法学习之路，从入门到熟练 ✨
 
-  [![Stars](https://img.shields.io/github/stars/fighting0701/My-algorithmic-bill-of-lading?style=flat-square)](https://g
-  ithub.com/fighting0701/My-algorithmic-bill-of-lading)
+  [![Stars](https://img.shields.io/github/stars/fighting0701/My-algorithmic-bill-of-lading?style=flat-square)](https://github.com/fighting0701/My-algorithmic-bill-of-lading)
   [![Language](https://img.shields.io/github/languages/top/fighting0701/My-algorithmic-bill-of-lading?style=flat-square)
   ](https://github.com/fighting0701/My-algorithmic-bill-of-lading)
 
